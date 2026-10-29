@@ -37,3 +37,7 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 
 **Marketplace Realtime Notify: Realtime**
 - **Marketplace Realtime Notify:** Mint **short-lived client tokens server-side** (`POST /v1/realtime/token/issue`); never ship your project key to the browser.
+
+## Further reading
+
+- [Pusher, Ably, Knock Alternatives: Edtech Realtime Notification APIs Without Socket Servers](docs/pusher-ably-knock-alternatives-edtech-realtime-no-a97jy1.md)
